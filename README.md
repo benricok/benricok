@@ -13,9 +13,14 @@
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=debian&color=red" />](https://www.debian.org/) 
 [<img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-1793D1?style=flat-square&logo=FreeBSD&color=red" />](https://www.freebsd.org/) 
+[<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
 
 ### My selfhosted cloud stack 
+
 [<img alt="Nextcloud" src="https://img.shields.io/badge/-Nextcloud-1793D1?style=flat-square&logo=Nextcloud&color=blue" />](https://www.nextcloud.com/)
+[<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
+[<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
+[<img alt="Docker" src="https://img.shields.io/badge/-Jellyfin-46a2f1?style=flat-square&logoColor=white&color=purple" />](https://www.docker.com/) 
 
 ### What is in my toolkit 🛠️
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
