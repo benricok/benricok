@@ -1,6 +1,6 @@
 ## Hi there, I'm Benrico Krog 👋
   
-  I'm a big open source enthusias and privacy focused individual. I like developing and building new intresting applications for fun.
+  I'm a big open source enthusiast and privacy focused individual. I like developing and building new intresting applications for fun.
   I'm currently working towards studing Megatronic Enginering and learing new technologies along the way.
   
 ### Languages I speak 💬
