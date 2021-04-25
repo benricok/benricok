@@ -10,8 +10,8 @@
 [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
 
 ### Operating systems I use
-[<img alt="Arch Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
-[<img alt="Debian Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=debian&color=red" />](https://www.debian.org/) 
+[<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
+[<img alt="Debian Linux" src="https://img.shields.io/badge/-Debian%20Linux-1793D1?style=flat-square&logo=debian&color=red" />](https://www.debian.org/) 
 [<img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-1793D1?style=flat-square&logo=FreeBSD&color=red" />](https://www.freebsd.org/) 
 
 ### In my selfhosted cloud stack 
