@@ -8,6 +8,7 @@
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white" />](https://www.embarcadero.com/products/delphi) 
 [<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) 
+[<img alt="Python" src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Python&logoColor=white" />](https://python.org)
 
 ### Operating systems I use
 [<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
