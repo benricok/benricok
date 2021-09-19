@@ -3,7 +3,7 @@
   I'm a big open source enthusiast and privacy focused individual. I like developing and building new intresting applications for fun.
   I'm currently working towards studing Megatronic Enginering and learing new technologies along the way.
   
-### Languages I speak 💬
+### Languages I speak
 [<img alt="C/C++" src="https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white" />](https://www.embarcadero.com/products/delphi) 
@@ -26,7 +26,7 @@
 [<img alt="nginx" src="https://img.shields.io/badge/-Nginx-1793D1?style=flat-square&color=green&logo=nginx&logoColor=white" />](https://www.nginx.org/)
 [<img alt="letsencrypt" src="https://img.shields.io/badge/-Letsencrypt%20SSL-1793D1?style=flat-square&color=orange&logo=letsencrypt&logoColor=white" />](https://www.letsencrypt.org/)
 
-### What is in my toolkit 🛠️
+### What is in my toolkit
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/)
 [<img alt="Vim" src="https://img.shields.io/badge/-Vim-1793D1?style=flat-square&logo=vim&color=green" />](https://www.mongodb.com/) 
