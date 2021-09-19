@@ -15,8 +15,9 @@
 [<img alt="Debian Linux" src="https://img.shields.io/badge/-Debian%20Linux-1793D1?style=flat-square&logo=debian&color=red" />](https://www.debian.org/) 
 [<img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-1793D1?style=flat-square&logo=FreeBSD&color=red" />](https://www.freebsd.org/) 
 
-### In my selfhosted cloud stack 
+### My selfhosted cloud stack 
 
+[<img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-1793D1?style=flat-square&logo=Proxmox&color=white" />](https://proxmox.com/)
 [<img alt="Nextcloud" src="https://img.shields.io/badge/-Nextcloud-1793D1?style=flat-square&logo=Nextcloud&color=blue" />](https://www.nextcloud.com/)
 [<img alt="Linux" src="https://img.shields.io/badge/-Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
@@ -26,7 +27,7 @@
 [<img alt="nginx" src="https://img.shields.io/badge/-Nginx-1793D1?style=flat-square&color=green&logo=nginx&logoColor=white" />](https://www.nginx.org/)
 [<img alt="letsencrypt" src="https://img.shields.io/badge/-Letsencrypt%20SSL-1793D1?style=flat-square&color=orange&logo=letsencrypt&logoColor=white" />](https://www.letsencrypt.org/)
 
-### What is in my toolkit
+### My toolkit
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/)
 [<img alt="Vim" src="https://img.shields.io/badge/-Vim-1793D1?style=flat-square&logo=vim&color=green" />](https://www.mongodb.com/) 
