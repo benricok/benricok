@@ -38,7 +38,7 @@
 [<img alt="RassberyPi" src="https://img.shields.io/badge/-Raspberry%20Pi-46a2f1?style=flat-square&logo=raspberry%20pi&logoColor=white&color=red" />](https://www.raspberrypi.org/) 
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/) 
-
+[<img alt="PlatformIO" src="https://img.shields.io/badge/-PlatformIO-13aa52?style=flat-square&logo=platform&logoColor=white&color=orange" />](https://www.platformio.com/) 
 
 
 [![benricok's Github stats](https://github-readme-stats.vercel.app/api?username=benricok&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
