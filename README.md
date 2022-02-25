@@ -3,7 +3,7 @@
   I'm a big open source enthusiast and privacy focused individual. I like developing and building new intresting applications for fun.
   I'm currently working towards studing Megatronic Enginering and learing new technologies along the way.
   
-### Languages I speak
+### Languages I am fluent in
 [<img alt="C/C++" src="https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 [<img alt="Python" src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Python&logoColor=white" />](https://python.org)
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white" />](https://www.embarcadero.com/products/delphi) 
