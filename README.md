@@ -25,7 +25,6 @@
 [<img alt="ghost" src="https://img.shields.io/badge/-ghost-1793D1?style=flat-square&color=black&logo=ghost&logoColor=white" />](https://www.ghost.org/)
 [<img alt="nginx" src="https://img.shields.io/badge/-Nginx-1793D1?style=flat-square&color=green&logo=nginx&logoColor=white" />](https://www.nginx.org/)
 [<img alt="letsencrypt" src="https://img.shields.io/badge/-Letsencrypt%20SSL-1793D1?style=flat-square&color=orange&logo=letsencrypt&logoColor=white" />](https://www.letsencrypt.org/)
-[<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
 [<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/)
 [<img alt="Vim" src="https://img.shields.io/badge/-Vim-1793D1?style=flat-square&logo=vim&color=green" />](https://www.mongodb.com/) 
 [<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/) 
