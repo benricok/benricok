@@ -16,14 +16,9 @@
 [<img alt="Debian Linux" src="https://img.shields.io/badge/-Debian%20Linux-1793D1?style=flat-square&logo=debian&color=red" />](https://www.debian.org/) 
 [<img alt="FreeBSD" src="https://img.shields.io/badge/-FreeBSD-1793D1?style=flat-square&logo=FreeBSD&color=red" />](https://www.freebsd.org/) 
 [<img alt="Proxmox" src="https://img.shields.io/badge/-Proxmox-1793D1?style=flat-square&logo=Proxmox&color=white" />](https://proxmox.com/)
-[<img alt="Nextcloud" src="https://img.shields.io/badge/-Nextcloud-1793D1?style=flat-square&logo=Nextcloud&color=blue" />](https://www.nextcloud.com/)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />](https://www.docker.com/) 
-[<img alt="Jellyfin" src="https://img.shields.io/badge/-Jellyfin-46a2f1?style=flat-square&logo=jellyfin&logoColor=white&color=00A4DC" />](https://jellyfin.org/) 
-[<img alt="Openhab" src="https://img.shields.io/badge/-OpenHAB-1793D1?style=flat-square&color=orange" />](https://www.openhab.org/)
-[<img alt="ghost" src="https://img.shields.io/badge/-ghost-1793D1?style=flat-square&color=black&logo=ghost&logoColor=white" />](https://www.ghost.org/)
 [<img alt="nginx" src="https://img.shields.io/badge/-Nginx-1793D1?style=flat-square&color=green&logo=nginx&logoColor=white" />](https://www.nginx.org/)
 [<img alt="letsencrypt" src="https://img.shields.io/badge/-Letsencrypt%20SSL-1793D1?style=flat-square&color=orange&logo=letsencrypt&logoColor=white" />](https://www.letsencrypt.org/)
-[<img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white" />](https://code.visualstudio.com/)
 [<img alt="Vim" src="https://img.shields.io/badge/-Vim-1793D1?style=flat-square&logo=vim&color=green" />](https://www.mongodb.com/) 
 [<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />](https://reactjs.org/) 
 [<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />](https://git-scm.com/) 
@@ -31,7 +26,6 @@
 [<img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />](https://www.arduino.cc/) 
 [<img alt="RassberyPi" src="https://img.shields.io/badge/-Raspberry%20Pi-46a2f1?style=flat-square&logo=raspberry%20pi&logoColor=white&color=red" />](https://www.raspberrypi.org/) 
 [<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />](https://nodejs.dev/)
-[<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />](https://www.mongodb.com/) 
 [<img alt="PlatformIO" src="https://img.shields.io/badge/-PlatformIO-13aa52?style=flat-square&logo=platform&logoColor=white&color=orange" />](https://www.platformio.com/) 
 
 
