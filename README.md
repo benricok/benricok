@@ -1,7 +1,10 @@
 ## Hi there, I'm Benrico Krog
-  
-  I'm an open source enthusiast and privacy focused individual. I like developing and building new intresting applications for fun.
-  I'm currently studing Electr & Electronic: Data Enginering and learing new technologies along the way.
+
+I am a practical, curious, young, but self-assured individual that has a passion for technology. I am always open to learning something new and I love being of service to others and sharing my passion. I am flexible and can work under pressure in a team or individually. 
+
+### Currently studying
+
+BEng Electr & Electron: Data Engineering @ Stellenbosch University
   
 ### Languages I am fluent in
 
@@ -10,7 +13,7 @@
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white" />](https://www.embarcadero.com/products/delphi) 
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
-### My toolkit
+### Some of my favourite tools
 
 [<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
 [<img alt="Debian Linux" src="https://img.shields.io/badge/-Debian%20Linux-1793D1?style=flat-square&logo=debian&color=red" />](https://www.debian.org/) 
