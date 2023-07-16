@@ -13,7 +13,7 @@ BEng Electr & Electron: Data Engineering @ Stellenbosch University
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white" />](https://www.embarcadero.com/products/delphi) 
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
-### Some of my favourite tools
+### Some of my favourite Projects & Tools
 
 [<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
 [<img alt="Debian Linux" src="https://img.shields.io/badge/-Debian%20Linux-1793D1?style=flat-square&logo=debian&color=red" />](https://www.debian.org/) 
