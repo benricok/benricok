@@ -1,6 +1,6 @@
 ## Hi there, I'm Benrico Krog
 
-I am a practical, curious, young, but self-assured individual that has a passion for technology. I am always open to learning something new and I love being of service to others and sharing my passion. I am flexible and can work under pressure in a team or individually. 
+I am a practical, curious and self-assured individual that has a passion for technology. I am always open to learning something new and I love being of service to others and sharing my passion. I am flexible and can work under pressure in a team or individually. 
 
 ### Currently studying
 
