@@ -9,9 +9,10 @@ BEng Electr & Electron: Data Engineering @ Stellenbosch University
 ### Languages I am fluent in
 
 [<img alt="C/C++" src="https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="R" src="https://img.shields.io/badge/-R-00599C?style=flat-square&logo=r&logoColor=white" />](http://www.cplusplus.com/)
+[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [<img alt="Python" src="https://img.shields.io/badge/-Python-00599C?style=flat-square&logo=Python&logoColor=white" />](https://python.org)
 [<img alt="Delphi" src="https://img.shields.io/badge/-Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white" />](https://www.embarcadero.com/products/delphi) 
-[<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript) 
 
 ### Some of my favourite Projects & Tools
 
