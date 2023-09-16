@@ -46,6 +46,7 @@ BEng Electr & Electron: Data Engineering @ Stellenbosch University
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=flat-square&logo=bitwarden&logoColor=white)
+![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat-square&logo=Jellyfin&logoColor=00A4DC)
 ![NextCloud](https://img.shields.io/badge/Next%20Cloud-0B94DE?style=flat-square&logo=nextcloud&logoColor=white)
 ![Bookstack](https://img.shields.io/badge/Bookstack-%230288D1.svg?style=flat-square&logo=bookstack&logoColor=white)
 ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat-square&logo=eclipsemosquitto&logoColor=white)
@@ -55,7 +56,6 @@ BEng Electr & Electron: Data Engineering @ Stellenbosch University
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white)
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=flat-square&logo=espressif&logoColor=white)
-![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat-square&logo=Jellyfin&logoColor=00A4DC)
 
 <!--
 [<img alt="Arch Linux" src="https://img.shields.io/badge/-Arch%20Linux-1793D1?style=flat-square&logo=arch%20linux&logoColor=white" />](https://www.archlinux.org/) 
