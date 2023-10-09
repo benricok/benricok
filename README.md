@@ -1,12 +1,13 @@
-## Hi there, I'm Benrico Krog
+
+### Hi there, I'm Benrico Krog
 
 I am a practical, curious and self-assured individual that has a passion for technology. I am always open to learning something new and I love being of service to others and sharing my passion. I am flexible and can work under pressure in a team or individually. 
 
-### Currently studying
+#### Currently studying
 
 BEng Electr & Electron: Data Engineering @ Stellenbosch University
   
-### Languages I am fluent in
+#### Languages I know
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
