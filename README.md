@@ -1,4 +1,4 @@
-## 👋 Greetings!
+## Greetings! 👋
 
 I'm Benrico Krog, a young and passionate student hailing from Stellenbosch University. With a natural curiosity for all things tech, I'm your go-to person for innovative solutions. 💡
 
@@ -13,7 +13,7 @@ I'm Benrico Krog, a young and passionate student hailing from Stellenbosch Unive
 
 BEng Electr & Electron: Data Engineering 
 
-### 💼 Skills & Languages
+### Skills & Languages 💼
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -22,7 +22,7 @@ BEng Electr & Electron: Data Engineering
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white)
 
-### 💡 Interests
+### Interests 💡
 
 - Machine Learning
 - Cyber Security
