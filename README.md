@@ -1,13 +1,19 @@
+## 👋 Greetings!
 
-### Hi there, I'm Benrico Krog
+I'm Benrico Krog, a young and passionate student hailing from Stellenbosch University. With a natural curiosity for all things tech, I'm your go-to person for innovative solutions. 💡
 
-I am a practical, curious and self-assured individual that has a passion for technology. I am always open to learning something new and I love being of service to others and sharing my passion. I am flexible and can work under pressure in a team or individually. 
+### Here's what I'm all about:
 
-#### Currently studying
+- I have an relentless appetite for learning and embracing the latest in tech.
+- My strong desire is to not only assist but also share my tech-inspired enthusiasm among others.
+- With a practical mindset, I'm all about finding the most realistic and effective solutions for every challenge.
+- I thrive in the fast lane, whether it's working seamlessly in a team or flying solo, and I absolutely adore hacking things together!
 
-BEng Electr & Electron: Data Engineering @ Stellenbosch University
-  
-#### Languages I know
+### I am currently studying 🎓
+
+BEng Electr & Electron: Data Engineering 
+
+### 💼 Skills & Languages
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -15,6 +21,16 @@ BEng Electr & Electron: Data Engineering @ Stellenbosch University
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Delphi](https://img.shields.io/badge/Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white)
+
+### 💡 Interests
+
+- Machine Learning
+- Cyber Security
+- Web Development
+- IoT & Home Automation
+- Electronics & Embeded Systems
+- Homelabs
+
 <!--
 [<img alt="C/C++" src="https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
 [<img alt="R" src="https://img.shields.io/badge/-R-00599C?style=flat-square&logo=r&logoColor=white" />](https://www.r-project.org/)
