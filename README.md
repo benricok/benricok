@@ -13,15 +13,6 @@ I'm Benrico Krog, a young and passionate student hailing from Stellenbosch Unive
 
 BEng Electr & Electron: Data Engineering 
 
-### Skills & Languages 💼
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white)
-
 ### Interests 💡
 
 - Machine Learning
@@ -30,6 +21,15 @@ BEng Electr & Electron: Data Engineering
 - IoT & Home Automation
 - Electronics & Embeded Systems
 - Homelabs
+
+### Skills & Languages 💼
+
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi%2FPascal-ED1F35?style=flat-square&logo=embarcadero&logoColor=white)
 
 <!--
 [<img alt="C/C++" src="https://img.shields.io/badge/-C/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />](http://www.cplusplus.com/)
