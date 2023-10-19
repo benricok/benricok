@@ -21,6 +21,7 @@ BEng Electr & Electron: Data Engineering
 - IoT & Home Automation
 - Electronics & Embeded Systems
 - Homelabs
+- Nature & Traveling
 
 ### Skills & Languages 💼
 
