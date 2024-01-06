@@ -21,7 +21,9 @@ BEng Electr & Electron: Data Engineering
 - Web Development
 - IoT & Home Automation
 - Homelabs
-- Nature & Traveling
+- Nature
+- Traveling
+- Hiking
 - Music
 
 ### Skills & Languages 💼
