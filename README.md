@@ -15,13 +15,14 @@ BEng Electr & Electron: Data Engineering
 
 ### Interests 💡
 
-- Machine Learning
+- Electronics & Embeded Systems
 - Cyber Security
+- Machine Learning
 - Web Development
 - IoT & Home Automation
-- Electronics & Embeded Systems
 - Homelabs
 - Nature & Traveling
+- Music
 
 ### Skills & Languages 💼
 
