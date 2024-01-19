@@ -11,7 +11,7 @@ I'm Benrico Krog, a young and passionate student hailing from Stellenbosch Unive
 
 ### I am currently studying 🎓
 
-BEng Electr & Electron: Data Engineering 
+BEng Electr & Electron Engineering 
 
 ### Interests 💡
 
