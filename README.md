@@ -1,6 +1,6 @@
-## Greetings! 👋
+## Greetings!
 
-I'm Benrico Krog, a young and passionate student hailing from Stellenbosch University. With a natural curiosity for all things tech, I'm your go-to person for innovative solutions. 💡
+I'm Benrico Krog, a young and passionate student hailing from Stellenbosch University. With a natural curiosity for all things tech, I'm your go-to person for innovative solutions.
 
 ### Here's what I'm all about:
 
@@ -26,7 +26,7 @@ BEng Electr & Electron Engineering
 - Hiking
 - Music
 
-### Skills & Languages 💼
+### Skills & Languages
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
